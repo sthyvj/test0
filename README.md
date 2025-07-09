@@ -1,2 +1,2 @@
 # test0
-Just a test repository
+Hello, this is just a test repository. Ignore this.
